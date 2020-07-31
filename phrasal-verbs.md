@@ -1,9 +1,6 @@
 | # | English | Translation |
 |---|---|---|
-| 1. | Chill out | Расслабься |
-| 2. | Chillax | Расслабься |
-| 3. | Loosen up | Расслабься |
-| 4. | Take it easy | Расслабься |
+| 1. | Chill out, Chillax, Loosen up, Take it easy | Расслабься |
 | 5. | Tied up | Связзанный |
 | 6. | Once in a blue moon | Очень редко |
 | 7. | On fire | В ударе |
