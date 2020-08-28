@@ -141,3 +141,24 @@
 | 139. | It's a doddle | Пустяк |
 | 140. | I'm in, I'm game | Я в деле |
 | 141. | Play into one's hands | Играть кому-то на руку |
+| 142. | I'm running late | Я опаздываю |
+| 143. | For a while | Какое-то время |
+| 144. | Off the top of my head | Навскидку |
+| 145. | Let's face it | Посмотреть правде в глаза |
+| 146. | High time | Самое время |
+| 147. | Nailed it | Все схвачено |
+| 148. | Leave it to me | Положись на меня |
+| 149. | Are we still on? | Все еще в силе? |
+| 150. | Sleep on it | Подумать до завтра |
+| 151. | If you don't mind | Если ты не против |
+| 152. | I take it | Насколько я понимаю |
+| 153. | I mean it | Я серьезно |
+| 154. | Your change | Ваша здача |
+| 155. | To find one's feed | Адаптироваться |
+| 156. | To be up the in the air | Быть в подвешеном состоянии |
+| 157. | Keep a low profile | Не светиться, Залечь на дно |
+| 158. | Don't sell yourself short | Не прибедняйся, Не скромничай |
+| 159. | Live out of suitcase | Жить на чемоданах |
+| 160. | The happy middle | Золотая середина |
+| 161. | Day in, day out | Изо дня в день  |
+| 162. | Day in, day out | Изо дня в день  |
