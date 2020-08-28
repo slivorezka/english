@@ -78,7 +78,7 @@
 | 76. | I dare you | Только попробуй |
 | 77. | I can't stand it anymore | Я так больше не могу |
 | 78. | I'm all ears | Я внимательно слушаю |
-| 79. | What's matter? | В чем дело? |
+| 79. | What's the matter? | В чем дело? |
 | 80. | Turning point | Ключевой момент |
 | 81. | Under my watch | При мне |
 | 82. | Check it out | Зацени |
@@ -91,7 +91,7 @@
 | 89. | Splash out | Потратиться |
 | 90. | Get over something | Пережить что-то |
 | 91. | Work out | Получаться |
-| 92. | Work out | Получаться |
+| 92. | It seems to me | Мне кажится |
 | 93. | Could you please scooch a little bit? | Не могли бы подвинуться немного? |
 | 94. | Miss the point | Не понимать главного |
 | 95. | To be taken aback | Быть в шоке |
@@ -161,4 +161,31 @@
 | 159. | Live out of suitcase | Жить на чемоданах |
 | 160. | The happy middle | Золотая середина |
 | 161. | Day in, day out | Изо дня в день  |
-| 162. | Day in, day out | Изо дня в день  |
+| 162. | It doesn't matter to me, I couldn't care less | Мне все равно  |
+| 163. | When it comes to me | Когда дело касается меня  |
+| 164. | From way back | С самого начала  |
+| 165. | Force of habit | По привычке |
+| 166. | To be out of sorts | Быть не вдухе |
+| 167. | Keep up with somebody | Успевать за кем-то |
+| 168. | Put a sock in it | Помолчи, Заткнись |
+| 169. | The night is young | Ещё не вечер |
+| 170. | Fall about | Ржать |
+| 171. | Mind if I take a look? | Можно глянуть? |
+| 172. | What do you want me to do? | Что ты хочешь чтобы я сделал? |
+| 173. | It's for the best | Это к лучшему |
+| 174. | That's a pity | Как жаль |
+| 174. | That's a pity | Как жаль |
+| 175. | If I'm not mistaken | Если я не ошибаюсь |
+| 176. | I suppose so | Наверно, да |
+| 177. | I far as I can tell | На сколько я могу судить |
+| 178. | I would say | По-моему |
+| 179. | I you ask me | Как по мне |
+| 180. | Leaves mush to be desired | Оставляет желать лучшего |
+| 181. | Beyond compare | Ни с чем не сравнить |
+| 182. | Nothing like this | Ничего подобного |
+| 183. | I rest my case | Вопросов больше нет |
+| 184. | You better take it from me | Тебе лучше узнать это от меня |
+| 185. | Dare I say it | Не побоюсь этого слова |
+| 186. | Despite this | Не смотря на это |
+| 187. | I never would have thought | Никогда бы не подумал |
+| 188. | I would venture | Рискну предположить |
