@@ -179,7 +179,7 @@
 | 176. | I suppose so | Наверно, да |
 | 177. | I far as I can tell | На сколько я могу судить |
 | 178. | I would say | По-моему |
-| 179. | I you ask me | Как по мне |
+| 179. | If you ask me | Как по мне |
 | 180. | Leaves mush to be desired | Оставляет желать лучшего |
 | 181. | Beyond compare | Ни с чем не сравнить |
 | 182. | Nothing like this | Ничего подобного |
