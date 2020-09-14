@@ -202,11 +202,10 @@
 | 198. | A needle in a haystack | Это как искать иголку в стоге сена |
 | 199. | Grab a bite | Перекусить |
 | 200. | Can't or won't? | Не можешь или не хочешь? |
-| 201. | Can't or won't? | Не можешь или не хочешь? |
-| 202. | A shot in the dark  | Палцем в небо |
-| 203. | Budge up | Подвинся |
-| 204. | Keep your chin up | Не вешай нос |
-| 204. | Let bygones be bygones | Что было то было |
-| 205. | Let it go | Забей |
-| 206. | Speak for yourself | Говори за себя |
+| 203. | A shot in the dark  | Палцем в небо |
+| 204. | Budge up | Подвинся |
+| 205. | Keep your chin up | Не вешай нос |
+| 206. | Let bygones be bygones | Что было то было |
+| 206. | Let it go | Забей |
+| 207. | Speak for yourself | Говори за себя |
 
