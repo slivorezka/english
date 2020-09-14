@@ -174,7 +174,6 @@
 | 172. | What do you want me to do? | Что ты хочешь чтобы я сделал? |
 | 173. | It's for the best | Это к лучшему |
 | 174. | That's a pity | Как жаль |
-| 174. | That's a pity | Как жаль |
 | 175. | If I'm not mistaken | Если я не ошибаюсь |
 | 176. | I suppose so | Наверно, да |
 | 177. | I far as I can tell | На сколько я могу судить |
