@@ -189,3 +189,24 @@
 | 186. | Despite this | Не смотря на это |
 | 187. | I never would have thought | Никогда бы не подумал |
 | 188. | I would venture | Рискну предположить |
+| 189. | I have to give it a shot | Я попробую |
+| 190. | I will take my chances | Я все же рискну |
+| 191. | Keep your eyes open | Буть готов |
+| 191. | No doubt | Несомненно |
+| 192. | Stick around | Ошиваться |
+| 193. | At one's bidding | По чьей-то указке |
+| 194. | Birds of a feather | Birds of a feather |
+| 195. | No one, but you | Никто кроме тебя |
+| 196. | Don't border | Не миешай |
+| 197. | Out of curiosity | Из любопытства |
+| 198. | A needle in a haystack | Это как искать иголку в стоге сена |
+| 199. | Grab a bite | Перекусить |
+| 200. | Can't or won't? | Не можешь или не хочешь? |
+| 201. | Can't or won't? | Не можешь или не хочешь? |
+| 202. | A shot in the dark  | Палцем в небо |
+| 203. | Budge up | Подвинся |
+| 204. | Keep your chin up | Не вешай нос |
+| 204. | Let bygones be bygones | Что было то было |
+| 205. | Let it go | Забей |
+| 206. | Speak for yourself | Говори за себя |
+
