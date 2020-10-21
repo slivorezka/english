@@ -122,7 +122,7 @@
 | 120. | Better safe than sorry | Лучше перебздеть чем недобздеть |
 | 121. | A dog's age | Целая вечность |
 | 122. | To throw up, To vomit, To puke, To barf | Блевать |
-| 123. | To throw up, To vomit, To puke, To barf | Блевать |
+| 123. | Speak for yourself | Говори за себя |
 | 124. | To get back on the track | Вернутьс все на свои места |
 | 125. | To put it briefly | В двух словах |
 | 126. | In sum | В крации |
@@ -194,7 +194,7 @@
 | 191. | No doubt | Несомненно |
 | 192. | Stick around | Ошиваться |
 | 193. | At one's bidding | По чьей-то указке |
-| 194. | Birds of a feather | Birds of a feather |
+| 194. | Birds of a feather | Одного поля ягода |
 | 195. | No one, but you | Никто кроме тебя |
 | 196. | Don't border | Не миешай |
 | 197. | Out of curiosity | Из любопытства |
@@ -206,5 +206,5 @@
 | 205. | Keep your chin up | Не вешай нос |
 | 206. | Let bygones be bygones | Что было то было |
 | 206. | Let it go | Забей |
-| 207. | Speak for yourself | Говори за себя |
+
 
