@@ -206,5 +206,99 @@
 | 205. | Keep your chin up | Не вешай нос |
 | 206. | Let bygones be bygones | Что было то было |
 | 207. | Let it go | Забей |
+| 208. | Rock the boat | Создавать проблемы |
+| 209. | Hang it there! | Держись! |
+| 210. | Don't be tardy | Не опаздывай |
+| 211. | Pull through | Выкрутиться |
+| 212. | Pull smb to bed | Покончить с чем-то |
+| 213. | Don't mention it | Не бери в голову |
+| 214. | Nice bit | Хороший ход |
+| 215. | Right up your street | Как раз по твоей части |
+| 216. | Go subway | Выйти боком |
+| 217. | Mere mortals | Простые смертные |
+| 218. | Global commons | Всеобщее достояние |
+| 219. | Miscarriage of justice | Судебная ошибка |
+| 220. | Lost touche | Перестать общаться |
+| 221. | I'm not sure what you saying, What's that? | Я не уверен что я понимаю что ты говоришь, что-что? |
+| 222. | Let us hope | Будем надеяться |
+| 223. | Enjoy yourself | Повеселись |
+| 224. | Stand down | Отбой |
+| 225. | Let's get know smb | Давай познакомимся с кем-то |
+| 226. | Be out of one's hair | Исчезнуть с глаз долой |
+| 227. | Cut it | Быть достаточным |
+| 228. | Have a way with | Быть в чемто мастером |
+| 229. | Around the clock | Круглыми сутками |
+| 230. | Get the word out | Распостронять информацию |
+| 231. | Let someone down | Подвести кого-то |
+| 232. | Be all set | Все как надо |
+| 233. | To one's heart's content | Сколько душе угодно |
+| 234. | At the beat time | Не вовремя |
+| 235. | It's a win-win | Это беспроиграшный вариант |
+| 236. | Bring it in | Иди сюда давай обниму |
+| 237. | Same here | Тоже самое |
+| 238. | Put your hand on the past | Забудь о прошлом |
+| 239. | Tell me about it | И не говори |
+| 240. | Suits me | Меня устраивает |
+| 241. | You asked for it | Ты сам напросился |
+| 242. | Keep me honest | Не дай мне соврать |
+| 243. | Smb friend of mine | Кто-то мой друг |
+| 244. | Take a rain check | Отложить |
+| 245. | Call it day | Закругляться |
+| 246. | It's not worth it | Оно того не стоит |
+| 247. | Serve you right | Так тебе и надо |
+| 248. | To burn the midnight oil | Работать допоздна |
+| 249. | Bugger of | Отвали |
+| 250. | I don't buy it | Я не куплюсь на это |
+| 251. | Beets me | Понятия не имею |
+| 252. | In the meantime | Тем временем |
+| 253. | We are on the same page | Я понимаю |
+| 254. | Bucket list | Список желаний |
+| 255. | Nip it, This is the bud | Пресечь в корне |
+| 256. | Nip it is the bud | Пресечь в корне |
+| 257. | Funny business | Выкрутасы, Исполнения |
+| 258. | You want a piece of me | Хочешь получить от меня |
+| 259. | I'm in good shape | Я здоров |
+| 260. | I'm minted, I'm loaded, I have many to born | Я мажор |
+| 261. | Means well | Хотеть как лучше |
+| 262. | And so on and so forth | И так далее и тому подобное |
+| 263. | I don't give a damn | Мне все равно |
+| 264. | What is that supposed to mean? | Что ты имеешшь ввиду? |
+| 265. | Buzz me up? | Впустишь меня? |
+| 266. | Not even close | Ничего подобного |
+| 267. | On a daily basis | Ежедневно |
+| 268. | Stir the pot | Мутить воду |
+| 269. | I see what you mean | Я понимаю о чем ты |
+| 270. | What are you getting at | К чему ты клонишь? |
+| 271. | You are one to talk | Кто бы говорил |
+| 272. | I wll make it up to you | Я сделаю это для тебя |
+| 273. | Tone it down | Уняться |
+| 274. | Do you mind if I ... | Вы не против, если я ... |
+| 275. | Cut short | Прерваться |
+| 276. | We are gonna make it | Мы справимся |
+| 277. | I have had enough of this | С меня хватит |
+| 278. | Beat it | Проваливай |
+| 279. | Next of kin | Ближайший родственик |
+| 280. | Rain or shine | В любом случае |
+| 281. | To give smb the benefit of the doubt | Поверить на слово |
+| 282. | Stop stalling | Прекрати увиливать |
+| 283. | Use your noodle | Шевели мозгами |
+| 284. | Common seance | Здравый смысл |
+| 285. | What have you been up to? | Чем ты занимался? |
+| 286. | Starve to death | Умирать с голоду |
+| 287. | Just for the record | Просто для справки |
+| 288. | I'm pissed | Я в бешенстве |
+| 289. | Make room | Освободить место |
+| 290. | On the tip your tongue | Вертиться на языке |
+| 291. | Mine words | Выбирать выражения |
+| 292. | What's done id done | Что сделано, то сделано |
+| 293. | Hit it off | Подружиться |
+| 294. | Enough is enough | Знай меру |
+| 295. | In abundance | В изобилии |
+| 296. | Knock it off! | Хватит! |
+| 297. | It has nothing to do | Это не имеет никакого отношения |
+| 298. | Same old same old | Все по старому |
+| 299. | Bite me! | Мне всеравно! |
+| 300. | Eventually | В конце концов |
+
 
 
