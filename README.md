@@ -205,6 +205,6 @@
 | 204. | Budge up | Подвинся |
 | 205. | Keep your chin up | Не вешай нос |
 | 206. | Let bygones be bygones | Что было то было |
-| 206. | Let it go | Забей |
+| 207. | Let it go | Забей |
 
 
