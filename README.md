@@ -35,7 +35,7 @@
 | 33. | Cut some slack | Дать поблажку |
 | 34. | It didn't cross my mind | Я об этом не думал |
 | 35. | Down the road | В будущем |
-| 36. | What is the catch? | В чем прикол? |
+| 36. | What is the catch? | В чем прикол? В чем загвоздка? |
 | 37. | Chill out, Chillax, Loosen up, Take it easy | Расслабься |
 | 38. | Tied up | Связанный |
 | 39. | On fire | В ударе |
@@ -139,7 +139,7 @@
 | 137. | It's a cinch | Раз плюнуть |
 | 138. | It's as easy as pie | Очень легко |
 | 139. | It's a doddle | Пустяк |
-| 140. | I'm in, I'm game | Я в деле |
+| 140. | I'm on in, I'm in, I'm game | Я в деле, Я понял, Угу понял |
 | 141. | Play into one's hands | Играть кому-то на руку |
 | 142. | I'm running late | Я опаздываю |
 | 143. | For a while | Какое-то время |
@@ -234,7 +234,7 @@
 | 233. | To one's heart's content | Сколько душе угодно |
 | 234. | At the beat time | Не вовремя |
 | 235. | It's a win-win | Это беспроиграшный вариант |
-| 236. | Bring it in | Иди сюда давай обниму |
+| 236. | Bring it in | Иди сюда, Давай обниму |
 | 237. | Same here | Тоже самое |
 | 238. | Put your hand on the past | Забудь о прошлом |
 | 239. | Tell me about it | И не говори |
@@ -299,6 +299,99 @@
 | 298. | Same old same old | Все по старому |
 | 299. | Bite me! | Мне всеравно! |
 | 300. | Eventually | В конце концов |
-
-
-
+| 301. | I will give you a hand | Я помогу тебе |
+| 301. | Give you too much credit | Я слижком высокого мнения о тебе |
+| 302. | Then it is settled | Тогда договорились |
+| 303. | The bright side | Положительный момент |
+| 305. | I screwed up | Я напортачил, запорол |
+| 306. | Wishful thinking | Самообман |
+| 307. | Pay handsomely | Щедро заплатить |
+| 308. | It blew my mind | Это очень впечетляет |
+| 309. | Under the weather | Плохо себя чуствую |
+| 310. | Stack up | Укладывать |
+| 311. | I changed my mind | Я передумал |
+| 312. | Get hopes up | Обнадеживать |
+| 313. | I'm fed up | Я свт по горло |
+| 314. | Exceed expectations | Превзойти ожидания |
+| 315. | Good call | Верно подмечено |
+| 316. | Hang in there | Держить там |
+| 317. | Long time no see | Давно не видились |
+| 318. | See through | Раскусить |
+| 319. | For sure | Несомненно |
+| 320. | You are really something | Ты просто нечно |
+| 321. | Do not get involved | Не вмешивайся |
+| 322. | Hang out | Тусить, зависать |
+| 323. | To be supposed | Должен, обязан |
+| 324. | One and only | Единственный и неповторимый |
+| 325. | The penny drops | Теперь понятно, дошло |
+| 326. | Mind your own business | Займись свои делом и не лезь в чужие дела |
+| 327. | Mind your own business | Не суй нос в не свои дела |
+| 328. | How so? | Как так? Почему? |
+| 329. | Hit a nerve | Задеть за живое |
+| 330. | Just in case | На всякий случай |
+| 331. | Keep one's head above water | Держаться на плаву |
+| 332. | How far along are you? | Ты нв каком месяце беременности? |
+| 333. | Don't jinx it | Не каркай |
+| 334. | Pull strings | Использовать связи |
+| 335. | Rock the boat | Использовать связи |
+| 336. | Better still | Еще лучше |
+| 337. | Not to mention | Не говоря уже о |
+| 338. | The tip of the iceberg | Это цветочки |
+| 339. | Quite so | Именно так |
+| 340. | Take the fall | Взять вину на себя |
+| 341. | Start over | Начать все с начала |
+| 342. | It is past my comprehension | Это выше моего понимания |
+| 343. | Lose it | Слететь с котушек |
+| 344. | Put in a good word | Замовлить словечко |
+| 345. | If it wasn't for you | Если бы не ты |
+| 346. | Seize the day | Лови момент |
+| 347. | Breaking point | Точка кипения |
+| 348. | Today of all day | Как назло сегодня |
+| 349. | In cold blood | Хладнокровно |
+| 350. | Dot the i's | Расставить точки над "i" |
+| 351. | Hit a wall | Зайти в тупик |
+| 352. | Go with the flow | Плыть по течению |
+| 351. | Hear me out | Выслушай меня |
+| 352. | Hear me out | Выслушай меня |
+| 353. | That is what I am talking about | Это то, о чем я говорю |
+| 354. | On cloud nine | На седьмом небе от счастья |
+| 355. | Give or take | Плюс минус |
+| 365. | Bottoms up | Пьем до дна |
+| 366. | Make a mess | Бардак |
+| 367. | Hang in the balance | Висеть на волоске |
+| 368. | People person | Общительный человек |
+| 369. | Read one's mind | Читать мысли |
+| 370. | Barge in | Вторгаться |
+| 371. | Out of spite | Из вредности |
+| 372. | Buckle up | Пристегни ремни |
+| 373. | On top of that | Вдобавок ко всему прочему |
+| 374. | To a T | В точности |
+| 375. | What is the 411 | Ну как там (о сплетнях) |
+| 376. | Take the edge off | Снять напряжение |
+| 377. | I'm frazzled | Я измотан |
+| 379. | Doesn't hurt | Не помешает |
+| 380. | At length | Подробно |
+| 381. | Do not mention it | Не за что, Не стоит благодарности |
+| 382. | How should I know? | Как я мог знать? |
+| 383. | What a coincidence | Какое совпадение |
+| 384. | To say the least | По меньшей мере |
+| 385. | At any rate | Во всяком случае |
+| 386. | By and large | В целом |
+| 386. | In charge of | Отвечающий за |
+| 387. | Knock yourself out | Делай что хочешь |
+| 388. | Either way | В любом случае |
+| 389. | Take a hint | Понять намек |
+| 390. | I'm tone-deaf | Медветь на ухо на ступил |
+| 391. | And staff | И все такое |
+| 392. | Kinda sorta | Типа, вроде как |
+| 392. | Let alone | Не говоря уже о |
+| 391. | Hold up | Держаться |
+| 392. | In no time | Вмиг |
+| 393. | No offence | Не обижайся |
+| 394. | I will do my best | Я сделаю все, что от меня зависит |
+| 395. | Catch some Zs | Вздремнуть, Поспать |
+| 396. | First come, first served | Кто первый встал, того и тапки |
+| 397. | Take a hike | Проваливай, Иди от сюда |
+| 398. | Cross my heart hope to die | Клянусь, что бы мне здохнуть |
+| 399. | Blessing in disguise | Нет худа без добра |
+| 400. | Give it a rest | Угомонись уже |
