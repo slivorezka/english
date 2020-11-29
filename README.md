@@ -344,7 +344,7 @@
 | 343. | Lose it | Слететь с котушек |
 | 344. | Put in a good word | Замовлить словечко |
 | 345. | If it wasn't for you | Если бы не ты |
-| 346. | Seize the day | Лови момент |
+| 346. | Seize the day, Carpe diem | Лови момент |
 | 347. | Breaking point | Точка кипения |
 | 348. | Today of all day | Как назло сегодня |
 | 349. | In cold blood | Хладнокровно |
@@ -387,7 +387,7 @@
 | 392. | Let alone | Не говоря уже о |
 | 391. | Hold up | Держаться |
 | 392. | In no time | Вмиг |
-| 393. | No offence | Не обижайся |
+| 393. | No offence | Не обижайся, Без обид |
 | 394. | I will do my best | Я сделаю все, что от меня зависит |
 | 395. | Catch some Zs | Вздремнуть, Поспать |
 | 396. | First come, first served | Кто первый встал, того и тапки |
@@ -395,3 +395,110 @@
 | 398. | Cross my heart hope to die | Клянусь, что бы мне здохнуть |
 | 399. | Blessing in disguise | Нет худа без добра |
 | 400. | Give it a rest | Угомонись уже |
+| 401. | Catch my breath | Отдишаться, Перевести дух |
+| 402. | See fit | Считать нужным |
+| 403. | The guest of honor | Почетный гость |
+| 404. | Carrot and stick approach | Метод кнута и пряника |
+| 405. | Deal with it | Смерись с этим |f
+| 406. | Shot across the bow| Предупредительный выстрел |
+| 407. | I have got nothing to lose | Мне нечего терять |
+| 408. | Penny for your thoughts | Поделись мыслями |
+| 409. | To grin from ear to ear | Улыбка от уха до уха |
+| 410. | To refuse point-blank | Отказываться на отрез |
+| 411. | On the other hand | С другой стороны |
+| 412. | Turn around | Наладиться |
+| 413. | I wan't keep you | Не буду вас задерживать |
+| 414. | Come it handy | Пригодится |
+| 415. | Certainly not, No way | Определенно нет, Никак нет |
+| 416. | I'm into ... | Я в теме, Я шарю ... |
+| 417. | Throw a party | Устроить вечеринку |
+| 418. | All is well | Все хорошо |
+| 419. | Ignorance is bless | Меньше знаешь — крепче спишь |
+| 420. | Here and there | Изредка, местами |
+| 421. | At best | В лучшем случае |
+| 422. | Do you best | Постарайся |
+| 423. | In one piece | В целосности и сохраности |
+| 424. | In plain sight | На самом видном месте |
+| 425. | From scratch | С нуля |
+| 426. | I can't help thinking | Я не могу не думать |
+| 427. | Out in the open | В открытую |
+| 428. | Thanks, but no thanks | Спасибо, не надо |
+| 429. | To bite the bullet | Пережить что-то не приятное |
+| 430. | To bite the bullet | Пережить что-то не приятное |
+| 430. | Currey the burden | Нести бремя |
+| 431. | To currey the burden | Нести бремя |
+| 432. | To clam up | Прикусить язык |
+| 433. | So far so good | Пока все идёт хорошо |
+| 434. | Beyond a shadow of doubt | Все всякого сомнения |
+| 435. | You are talking crazy | Ты несеш какую-то дичь |
+| 436. | Knock yourself out | Как тебе будет угодно |
+| 437. | At the first opportunity | При первой возможности |
+| 438. | Not for sure | Но это не точно |
+| 439. | Perk up | Взбодрить |
+| 440. | Step on toes | Перейти дорогу |
+| 441. | To step on toes | Перейти дорогу |
+| 442. | To go to the dogs | Все идет к черту |
+| 443. | Don't push me | Не дави на меня |
+| 444. | For good measure | В добавок |
+| 445. | Don't stay up too late | Не засиживайся |
+| 446. | Dig it | Налетай |
+| 447. | Good thinks come to those who waite | Хорошее приходит к тем, кто умеет ждать |
+| 447. | Not it | Чур не я |
+| 448. | On my own | Самостоятельно |
+| 449. | I beg to differ | Позволь не согласиться |
+| 450. | To blend in | Слиться с толпоц |
+| 451. | I'm positive | Я уверен |
+| 452. | To look the part | Выглядеть соответствующе |
+| 453. | Loud and clear | Все понятно |
+| 454. | Apples and oranges | Небо и земля |
+| 455. | Fill me in | Ввести меня в курс дела |
+| 456. | Cheer up | Выше нос |
+| 457. | Leave a lot to be desired | Отавлять желать лучшего |
+| 458. | Keep up appearances | Соблюдать приличия |
+| 459. | Get rid of | Избавляться от |
+| 460. | Kill two birds with one stone | Убить двуз звйцев одним выстрелом |
+| 461. | Fear not | Не бойтесь |
+| 462. | I reckon | Я считаю |
+| 463. | On what grounds? | На каком основании? |
+| 464. | Don'n beet yourself up | Не вени себя |
+| 465. | Worth a shot | Попытка не пытка |
+| 466. | I'm not quite sure | Я не совсем уверен |
+| 467. | Do you read me? | Как меня слышно |
+| 468. | For a rainy day | На черный день |
+| 469. | I beg to differ | Позволь не согласиться |
+| 470. | Ring the bell | Примомню |
+| 471. | Doesn't ring the bell | Не примомню |
+| 472. | All in good times | Всему свое время |
+| 473. | Keep fit | Поддерживать форму |
+| 474. | Play the fool | Валять дурака |
+| 475. | Sod's law | Закон подлости |
+| 476. | Out of date | Устаревший |
+| 477. | I'm back in business | Я снова в деле |
+| 478. | Old habits die hard | По старой привычки |
+| 479. | As far as I know | На сколько я знаю |
+| 480. | Divide and conquer | Разделяй и властвуй |
+| 481. | Make up your mind | Определись уже |
+| 482. | Keep me in the loop | Держи меня в курсе |
+| 483. | Bright future | Светлое будущие |
+| 483. | Pell - mell | Безпорядок |
+| 484. | Don't make this hard | Не усложняй |
+| 485. | Don't make this hard | Не надо все усложнять |
+| 486. | You reap what you sow | Что посеешь, то и пожнёшь |
+| 487. | Onward and upward | Дальше — больше |
+| 488. | Loop in | Уведомить |
+| 489. | Face the music | Расхлёбывать кашу |
+| 489. | You are on your own | Ты сам по себе |
+| 490. | Up for it | Готов к этому |
+| 491. | For that matter | Если на то пошло |
+| 492. | Better late than never | Луше поздно чем никогда |
+| 493. | What's bothering you | Что тебя бепокоит? |
+| 494. | If you don't mind | Если ты не возражаешь |
+| 495. | Fix your face | Лицо по-проще |
+| 496. | Plenty more fish in the see | На этом свет клином не сошёлся |
+| 497. | I'm flat broke | В карманах пусто, Я на мели |
+| 498. | It'ts your funereal | Пеняй на себя |
+| 499. | How shall I put this | Как бы это сказать |
+| 500. | Easy peasy | Проще простого |
+| 501. | Give it a shot | Попробовать |
+| 502. | Keep your eyes open | Попробовать |
+| 503. | Hunky-dory | Всё тип топ, Всё тип-топ |
