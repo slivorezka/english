@@ -30,3 +30,11 @@
 | 27. | Banana oil | Чушь |
 | 28. | Awkward | Неловко |
 | 29. | Albeit | Хотя |
+| 30. | Delightful | Восхитительный |
+| 31. | Wealthy | Богатый |
+| 32. | Slightly | Немного |
+| 33. | Approximately | Примерно |
+| 34. | Pet Peeve | Раздражитель |
+| 35. | Moot | Спорный |
+| 36. | Anguish | Боль, Мука |
+| 37. | Besides | Кроме того |

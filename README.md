@@ -99,7 +99,7 @@
 | 97. | Great minds think alike | У дураков мысли сходятся |
 | 98. | Deep down | В глубине души |
 | 99. | For crying out loud | В конце концов |
-| 100. | You don't say! | Не может быть! |
+| 100. | You don't say!, No can do! | Не может быть! |
 | 101. | Cut it out! | Прекрати! |
 | 102. | As I live and breathe | Кого я вижу |
 | 103. | That's all I know | Это все что я знаю |
@@ -130,7 +130,7 @@
 | 128. | Get cold feet | Струсить |
 | 129. | You have my word | Даю слово |
 | 130. | Pie in the sky | Не реально |
-| 131. | No contest | Безрузультатно |
+| 131. | No contest | Безрезультатно |
 | 132. | Split it out! | Говори уже, Выплюнь |
 | 133. | Hang out | Тусить |
 | 134. | Watch your language | Следи за языком |
@@ -243,7 +243,7 @@
 | 242. | Keep me honest | Не дай мне соврать |
 | 243. | Smb friend of mine | Кто-то мой друг |
 | 244. | Take a rain check | Отложить |
-| 245. | Call it day | Закругляться |
+| 245. | Call it day | Закругляйся |
 | 246. | It's not worth it | Оно того не стоит |
 | 247. | Serve you right | Так тебе и надо |
 | 248. | To burn the midnight oil | Работать допоздна |
@@ -296,7 +296,7 @@
 | 295. | In abundance | В изобилии |
 | 296. | Knock it off! | Хватит! |
 | 297. | It has nothing to do | Это не имеет никакого отношения |
-| 298. | Same old same old | Все по старому |
+| 298. | Same old, same old | Все по старому |
 | 299. | Bite me! | Мне всеравно! |
 | 300. | Eventually | В конце концов |
 | 301. | I will give you a hand | Я помогу тебе |
@@ -500,5 +500,51 @@
 | 499. | How shall I put this | Как бы это сказать |
 | 500. | Easy peasy | Проще простого |
 | 501. | Give it a shot | Попробовать |
-| 502. | Keep your eyes open | Попробовать |
-| 503. | Hunky-dory | Всё тип топ, Всё тип-топ |
+| 502. | Hunky-dory | Всё тип топ, Всё тип-топ |
+| 503. | Pretty please | Очень прошу, Пожайлуста |
+| 504. | Let me give you a hand | Давай помогу, Позволь мне помочь тебе |
+| 505. | I will ask around | Я поспрашиваю |
+| 507. | As I see it | На мой взгляд |
+| 508. | I seem to be | Похоже я, ... |
+| 509. | Dead by a thousand cuts | Вода камень точит (негатив) |
+| 510. | Sincerely yours | Искренне ваш |
+| 511. | No sweat, Don't sweat it | Без проблем, Не парься |
+| 512. | He means no harm | Он не хотел навредить |
+| 513. | I'm anxious | Я беспокоюсь |
+| 514. | What are the adds | Какое срвпадение! |
+| 515. | Yeas on the prize | Сосредоточиться на главном |
+| 516. | I will handle it | Я порешаю с этим |
+| 517. | Pet Peeve | Раздражитель |
+| 518. | Wing it | Импровизировать |
+| 519. | New low | Пробить дно |
+| 520. | I drink tirelessly | Я неустанно пью |
+| 521. | Speaking of which | Кстати говоря |
+| 522. | Worst case scenario | В худшем случае |
+| 523. | The ship has sailed | Поезд ущел |
+| 524. | Blend in | Вписываться, подходить |
+| 525. | Lovely to meet you| Приятно познакомиться |
+| 526. | Pleased / Lovely to meet you| Приятно познакомиться |
+| 527. | He is fucking with you | Он подкалывает тебя |
+| 528. | Before I forget | Пока не забыл |
+| 529. | Cold turkey | Завязывать |
+| 530. | I beg your pardon | Прошу прощения |
+| 531. | One step at a time | Постепенно |
+| 532. | Let it slide | Закрыть ан это глаза |
+| 533. | Nest egg | Заначка |
+| 534. | It just occurred to me | До меня только что дошло |
+| 535. | To be tickled pink | Доволен как слон, Радости полные штаны |
+| 536. | Every now and then | Иногда, время от вреимя |
+| 537. | All that jazz | И все такое прочее |
+| 538. | Put one's toe in the water | Начать что-то делать |
+| 539. | Red tape | Бюрократия, Волокита |
+| 540. | Speaking seriously | Честно говоря |
+| 541. | Come what may | Будь что будет |
+| 542. | Catchy Jingle | Песня из рекламы |
+| 543. | Go big or go home | Все или ничего |
+| 544. | Be there or be square | Встретимся на месте |
+| 545. | You can't deny it | Ты не можешь этого отрицать |
+| 546. | I'm on the edge | Я на грани, Я на краю |
+| 547. | Are you certain? | Ты уверен? |
+| 548. | Don't jump to conclusions | Не спешите с выводами |
+| 549. | Overstep my bounds | Выйти за рамки дозволенного |
+| 550. | Behave yourself | Веди себя хорошо |
