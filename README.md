@@ -546,5 +546,5 @@
 | 546. | I'm on the edge | Я на грани, Я на краю |
 | 547. | Are you certain? | Ты уверен? |
 | 548. | Don't jump to conclusions | Не спешите с выводами |
-| 549. | Overstep my bounds | Выйти за рамки дозволенного |
+| 549. | Overstep my bounds | Вийти за рамки дозволенного |
 | 550. | Behave yourself | Веди себя хорошо |
