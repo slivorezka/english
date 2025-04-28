@@ -23,70 +23,70 @@
 | 21.  | To keep tabs on somebody                      | Стежити за кимось                                   |
 | 22.  | Come again                                    | Повтори?                                            |
 | 23.  | Fed up with something                         | Бути ситим по горло чимось                          |
-| 24.  | Have a point                                  | В этом есть смысл                                   |
-| 25.  | In the blink of an eye                        | В мгновение ока                                     |
-| 26.  | Get a grip by yourself                        | Возьми себя в руки                                  |
-| 27.  | Take it or leave it                           | Либо — да, либо — нет                               |
-| 28.  | To get back at somebody                       | Отомстить кому-то                                   |
-| 29.  | Beat around the bush                          | Ходить вокруг да около                              |
-| 30.  | To get the hang of something                  | Разобраться с чем-то не простым                     |
-| 31.  | Hit and miss                                  | Как попало                                          |
-| 32.  | To be smooth sailing                          | Как по маслу                                        |
-| 33.  | Cut some slack                                | Дать поблажку                                       |
-| 34.  | It didn't cross my mind                       | Я об этом не думал                                  |
-| 35.  | Down the road                                 | В будущем                                           |
-| 36.  | What is the catch?                            | В чем прикол? В чем загвоздка?                      |
-| 37.  | Chill out, Chillax, Loosen up, Take it easy   | Расслабься                                          |
-| 38.  | Tied up                                       | Связанный                                           |
-| 39.  | On fire                                       | В ударе                                             |
-| 40.  | Quite the contrary                            | Совсем на оборот                                    |
-| 41.  | Low blow                                      | Удар ниже пояса                                     |
-| 42.  | My treat                                      | Я угощаю                                            |
-| 43.  | I envy you                                    | Я тебе завидую                                      |
-| 44.  | On the fence                                  | Еще думаю, не орпеделился                           |
-| 45.  | Give me a hint                                | Дай мне подсказку, намекни мне                      |
-| 46.  | Wrap it up                                    | Заругляться                                         |
-| 47.  | Pick yourself up                              | Соберись, возми себя в руки                         |
-| 48.  | It's a bummer, It's lame, It sucks            | Это отстой                                          |
-| 49.  | Carry out                                     | Выполнять                                           |
-| 50.  | Get over it                                   | Смерись                                             |
-| 51.  | Mix-up                                        | Недорозумение                                       |
+| 24.  | Have a point                                  | У цьому є сенс                                      |
+| 25.  | In the blink of an eye                        | Миттєво                                             |
+| 26.  | Get a grip by yourself                        | Візьми себе в руки                                  |
+| 27.  | Take it or leave it                           | Або так, або ні                                     |
+| 28.  | To get back at somebody                       | Помститися комусь                                   |
+| 29.  | Beat around the bush                          | Ходити навкруги                                     |
+| 30.  | To get the hang of something                  | Розібратися з чимось непростим                      |
+| 31.  | Hit and miss                                  | Як попало                                           |
+| 32.  | To be smooth sailing                          | Як по маслу                                         |
+| 33.  | Cut some slack                                | Дати поблажку                                       |
+| 34.  | It didn't cross my mind                       | Я про це не думав                                   |
+| 35.  | Down the road                                 | У майбутньому                                       |
+| 36.  | What is the catch?                            | У чому прикол?                                      |
+| 37.  | Chill out, Chillax, Loosen up, Take it easy   | Розслабся                                           |
+| 38.  | Tied up                                       | Пов'язаний                                          |
+| 39.  | On fire                                       | В ударі                                             |
+| 40.  | Quite the contrary                            | Зовсім навпаки                                      |
+| 41.  | Low blow                                      | Удар нижче пояса                                    |
+| 42.  | My treat                                      | Я пригощаю                                          |
+| 43.  | I envy you                                    | Я тобі заздрю                                       |
+| 44.  | On the fence                                  | Ще думаю, не визначився                             |
+| 45.  | Give me a hint                                | Дай мені підказку, натякни мені                     |
+| 46.  | Wrap it up                                    | Закруглятися                                        |
+| 47.  | Pick yourself up                              | Зберися, візьми себе в руки                         |
+| 48.  | It's a bummer, It's lame, It sucks            | Це відстій                                          |
+| 49.  | Carry out                                     | Виконувати                                          |
+| 50.  | Get over it                                   | Змирись                                             |
+| 51.  | Mix-up                                        | Непорозуміння                                       |
 | 52.  | Pay-up!                                       | Гони бабки!                                         |
-| 53.  | Chip in                                       | Скидываться                                         |
-| 54.  | Try out                                       | Испытывать                                          |
-| 55.  | Put out                                       | Затушить                                            |
-| 56.  | Don't freak out                               | Не волнуйтесь                                       |
-| 57.  | Check it out                                  | Зачени                                              |
-| 58.  | I wasn't born yesterday                       | Я не вчера родился                                  |
-| 59.  | A shot in the arm                             | Пинок под зад                                       |
-| 60.  | It's getting dark out                         | Темнеет                                             |
-| 61.  | I'm tipsy                                     | Под градусом                                        |
-| 62.  | I didn't have time                            | Я не успел                                          |
+| 53.  | Chip in                                       | Скидатися                                           |
+| 54.  | Try out                                       | Випробовувати                                       |
+| 55.  | Put out                                       | Загасити                                            |
+| 56.  | Don't freak out                               | Не хвилюйтесь                                       |
+| 57.  | Check it out                                  | Заціни                                              |
+| 58.  | I wasn't born yesterday                       | Я не вчора народився                                |
+| 59.  | A shot in the arm                             | Пінок під зад                                       |
+| 60.  | It's getting dark out                         | Темнішає                                            |
+| 61.  | I'm tipsy                                     | Під градусом                                        |
+| 62.  | I didn't have time                            | Я не встиг                                          |
 | 63.  | I haven't dot a clue, I'm in the dark         | Я не знаю                                           |
-| 64.  | You deserve better                            | Ты заслуживаешь лучшего                             |
-| 65.  | It's a sore point                             | Больная тема                                        |
-| 66.  | It's all Greek to me!                         | Я в этом не шарю! (Это для меня китайская грамота!) |
-| 67.  | Do something with flying colors               | Делать что-то блестяще                              |
-| 68.  | I have to keep my head above water            | Из последних сил                                    |
-| 69.  | Meet the needs                                | Идти на компромисы                                  |
-| 70.  | I cannot but drink beer                       | Не могу не пить пиво                                |
-| 71.  | Not in the slightest                          | Ни в малейшей степени                               |
-| 72.  | Don't let me down!                            | Не подведи меня!                                    |
-| 73.  | As the saying goes                            | Как говорится                                       |
-| 74.  | The feeling is mutual                         | Это взаимно                                         |
-| 75.  | Keep your voice down                          | Говори потише                                       |
-| 76.  | I dare you                                    | Только попробуй                                     |
-| 77.  | I can't stand it anymore                      | Я так больше не могу                                |
-| 78.  | I'm all ears                                  | Я внимательно слушаю                                |
-| 79.  | What's the matter?                            | В чем дело?                                         |
-| 80.  | Turning point                                 | Ключевой момент                                     |
-| 81.  | Under my watch                                | При мне                                             |
-| 82.  | Check it out                                  | Зацени                                              |
-| 83.  | Watch your step                               | Смотри под ноги                                     |
-| 84.  | To pain the town red                          | Загулять                                            |
-| 85.  | Play it by ear                                | Решать по ходу дела                                 |
-| 86.  | As I see it                                   | Как я это вижу                                      |
-| 87.  | For a change                                  | Для разнообразия                                    |
+| 64.  | You deserve better                            | Ти заслуговуєш на краще                             |
+| 65.  | It's a sore point                             | Болюча тема                                         |
+| 66.  | It's all Greek to me!                         | Я в цьому не шарю!                                  |
+| 67.  | Do something with flying colors               | Робити щось блискуче                                |
+| 68.  | I have to keep my head above water            | З останніх сил                                      |
+| 69.  | Meet the needs                                | Піти на компроміси                                  |
+| 70.  | I cannot but drink beer                       | Не можу не пити пиво                                |
+| 71.  | Not in the slightest                          | У жодному ступені                                   |
+| 72.  | Don't let me down!                            | Не підведи мене!                                    |
+| 73.  | As the saying goes                            | Як то кажуть                                        |
+| 74.  | The feeling is mutual                         | Це взаємно                                          |
+| 75.  | Keep your voice down                          | Говори тихіше                                       |
+| 76.  | I dare you                                    | Тільки спробуй                                      |
+| 77.  | I can't stand it anymore                      | Я так більше не можу                                |
+| 78.  | I'm all ears                                  | Я уважно слухаю                                     |
+| 79.  | What's the matter?                            | У чому річ?                                         |
+| 80.  | Turning point                                 | Ключовий момент                                     |
+| 81.  | Under my watch                                | При мені                                            |
+| 82.  | Check it out                                  | Заціни                                              |
+| 83.  | Watch your step                               | Дивись під ноги                                     |
+| 84.  | To pain the town red                          | Загуляти                                            |
+| 85.  | Play it by ear                                | Вирішувати по ходу справи                           |
+| 86.  | As I see it                                   | Як я це бачу                                        |
+| 87.  | For a change                                  | Для розмаїття                                       |
 | 88.  | To blue pencil                                | Цензура                                             |
 | 89.  | Splash out                                    | Потратиться                                         |
 | 90.  | Get over something                            | Пережить что-то                                     |
