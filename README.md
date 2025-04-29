@@ -89,126 +89,126 @@
 | 87.  | For a change                                  | Для розмаїття                                       |
 | 88.  | To blue pencil                                | Цензура                                             |
 | 89.  | Splash out                                    | Потратиться                                         |
-| 90.  | Get over something                            | Пережить что-то                                     |
-| 91.  | Work out                                      | Получаться                                          |
-| 92.  | It seems to me                                | Мне кажится                                         |
-| 93.  | Could you please scooch a little bit?         | Не могли бы подвинуться немного?                    |
-| 94.  | Miss the point                                | Не понимать главного                                |
-| 95.  | To be taken aback                             | Быть в шоке                                         |
-| 96.  | Get busy                                      | Заняться делом                                      |
-| 97.  | Great minds think alike                       | У дураков мысли сходятся                            |
-| 98.  | Deep down                                     | В глубине души                                      |
-| 99.  | For crying out loud                           | В конце концов                                      |
-| 100. | You don't say!, No can do!                    | Не может быть!                                      |
-| 101. | Cut it out!                                   | Прекрати!                                           |
-| 102. | As I live and breathe                         | Кого я вижу                                         |
-| 103. | That's all I know                             | Это все что я знаю                                  |
-| 104. | So be it!                                     | Ну и пусть!                                         |
-| 105. | To add insult to injury                       | Не сыпать соль на рану                              |
-| 106. | Long time no see                              | Давно не видились                                   |
+| 90.  | Get over something                            | Пережити щось                                       |
+| 91.  | Work out                                      | Виходити                                            |
+| 92.  | It seems to me                                | Мені здається                                       |
+| 93.  | Could you please scooch a little bit?         | Чи не могли б посунутися трохи?                     |
+| 94.  | Miss the point                                | Не розуміти головного                               |
+| 95.  | To be taken aback                             | Бути в шоці                                         |
+| 96.  | Get busy                                      | Зайнятися справою                                   |
+| 97.  | Great minds think alike                       | У дурнів думки сходяться                            |
+| 98.  | Deep down                                     | У глибині душі                                      |
+| 99.  | For crying out loud                           | Зрештою                                             |
+| 100. | You don't say!, No can do!                    | Не може бути!                                       |
+| 101. | Cut it out!                                   | Припини!                                            |
+| 102. | As I live and breathe                         | Кого я бачу                                         |
+| 103. | That's all I know                             | Це все, що я знаю                                   |
+| 104. | So be it!                                     | Та й нехай!                                         |
+| 105. | To add insult to injury                       | Сипати на рану сіль                                 |
+| 106. | Long time no see                              | Давно не бачились                                   |
 | 107. | Word up                                       | Точно                                               |
-| 108. | Not a clue, I wish I knew                     | Без понятия                                         |
-| 109. | Half-baked idea                               | Не продуманая идея                                  |
-| 110. | Bring up                                      | Воспитывать, Упоминать                              |
-| 111. | Time is up                                    | Время вышло                                         |
-| 112. | Use your loaf                                 | Шевели мозгами                                      |
-| 113. | You get used to it                            | Ты привыкнешь                                       |
-| 114. | Sick and tired                                | Уже достало                                         |
-| 115. | To think outside the box                      | Думать не стандартно                                |
-| 116. | I can relate, Relatable                       | Жизненно                                            |
-| 117. | Drag your ass                                 | Поторопись, Шевели батонами                         |
-| 118. | Fool around                                   | Валять дурака                                       |
-| 119. | A dime a dozen                                | Проше простого                                      |
-| 120. | Better safe than sorry                        | Лучше перебздеть чем недобздеть                     |
-| 121. | A dog's age                                   | Целая вечность                                      |
-| 122. | To throw up, To vomit, To puke, To barf       | Блевать                                             |
-| 123. | Speak for yourself                            | Говори за себя                                      |
-| 124. | To get back on the track                      | Вернутьс все на свои места                          |
-| 125. | To put it briefly                             | В двух словах                                       |
-| 126. | In sum                                        | В крации                                            |
-| 127. | Come in handy                                 | Пригодится                                          |
-| 128. | Get cold feet                                 | Струсить                                            |
+| 108. | Not a clue, I wish I knew                     | Без поняття                                         |
+| 109. | Half-baked idea                               | Непродумана ідея                                    |
+| 110. | Bring up                                      | Виховувати, Згадувати                               |
+| 111. | Time is up                                    | Час вийшов                                          |
+| 112. | Use your loaf                                 | Ворушіть мізками                                    |
+| 113. | You get used to it                            | Ти звикнеш                                          |
+| 114. | Sick and tired                                | Вже дістало                                         |
+| 115. | To think outside the box                      | Думати нестандартно                                 |
+| 116. | I can relate, Relatable                       | Життєво                                             |
+| 117. | Drag your ass                                 | Поспішай, Воруши батонами                           |
+| 118. | Fool around                                   | Валяти дурня                                        |
+| 119. | A dime a dozen                                | Простіше простого                                   |
+| 120. | Better safe than sorry                        | Краще перебдздіти ніж недобдздіти                   |
+| 121. | A dog's age                                   | Ціла вічність                                       |
+| 122. | To throw up, To vomit, To puke, To barf       | Блювати                                             |
+| 123. | Speak for yourself                            | Говори за себе                                      |
+| 124. | To get back on the track                      | Повернути все на свої місця                         |
+| 125. | To put it briefly                             | У двох словах                                       |
+| 126. | In sum                                        | У крації                                            |
+| 127. | Come in handy                                 | Стане в нагоді                                      |
+| 128. | Get cold feet                                 | Струсити                                            |
 | 129. | You have my word                              | Даю слово                                           |
 | 130. | Pie in the sky                                | Не реально                                          |
 | 131. | No contest                                    | Безрезультатно                                      |
-| 132. | Split it out!                                 | Говори уже, Выплюнь                                 |
+| 132. | Split it out!                                 | Говори вже, Виплюнь                                 |
 | 133. | Hang out                                      | Тусить                                              |
-| 134. | Watch your language                           | Следи за языком                                     |
-| 135. | Don't sweat it                                | Не парься                                           |
-| 136. | Rule of thumb                                 | Метод тыка                                          |
-| 137. | It's a cinch                                  | Раз плюнуть                                         |
-| 138. | It's as easy as pie                           | Очень легко                                         |
-| 139. | It's a doddle                                 | Пустяк                                              |
-| 140. | I'm on in, I'm in, I'm game                   | Я в деле, Я понял, Угу понял                        |
-| 141. | Play into one's hands                         | Играть кому-то на руку                              |
-| 142. | I'm running late                              | Я опаздываю                                         |
-| 143. | For a while                                   | Какое-то время                                      |
+| 134. | Watch your language                           | Стеж за язиком                                      |
+| 135. | Don't sweat it                                | Не переймайся                                       |
+| 136. | Rule of thumb                                 | Метод тику                                          |
+| 137. | It's a cinch                                  | Раз плюнути                                         |
+| 138. | It's as easy as pie                           | Дуже легко                                          |
+| 139. | It's a doddle                                 | Дрібниця                                            |
+| 140. | I'm on in, I'm in, I'm game                   | Я в ділі, Я зрозумів, Угу зрозумів                  |
+| 141. | Play into one's hands                         | Грати комусь на руку                                |
+| 142. | I'm running late                              | Я запізнююсь                                        |
+| 143. | For a while                                   | Якийсь час                                          |
 | 144. | Off the top of my head                        | Навскидку                                           |
-| 145. | Let's face it                                 | Посмотреть правде в глаза                           |
-| 146. | High time                                     | Самое время                                         |
-| 147. | Nailed it                                     | Все схвачено                                        |
-| 148. | Leave it to me                                | Положись на меня                                    |
-| 149. | Are we still on?                              | Все еще в силе?                                     |
-| 150. | Sleep on it                                   | Подумать до завтра                                  |
-| 151. | If you don't mind                             | Если ты не против                                   |
-| 152. | I take it                                     | Насколько я понимаю                                 |
-| 153. | I mean it                                     | Я серьезно                                          |
+| 145. | Let's face it                                 | Подивитися правді в очі                             |
+| 146. | High time                                     | Саме час                                            |
+| 147. | Nailed it                                     | Все схоплено                                        |
+| 148. | Leave it to me                                | Покладись на мене                                   |
+| 149. | Are we still on?                              | Досі в силі?                                        |
+| 150. | Sleep on it                                   | Подумати до завтра                                  |
+| 151. | If you don't mind                             | Якщо ти не проти                                    |
+| 152. | I take it                                     | Наскільки я розумію                                 |
+| 153. | I mean it                                     | Я серйозно                                          |
 | 154. | Your change                                   | Ваша здача                                          |
-| 155. | To find one's feed                            | Адаптироваться                                      |
-| 156. | To be up the in the air                       | Быть в подвешеном состоянии                         |
-| 157. | Keep a low profile                            | Не светиться, Залечь на дно                         |
-| 158. | Don't sell yourself short                     | Не прибедняйся, Не скромничай                       |
-| 159. | Live out of suitcase                          | Жить на чемоданах                                   |
+| 155. | To find one's feed                            | Адаптуватися                                        |
+| 156. | To be up the in the air                       | Бути у підвішеному стані                            |
+| 157. | Keep a low profile                            | Не світитися, Залягти на дно                        |
+| 158. | Don't sell yourself short                     | Не прибіднюйся, Не скромнічай                       |
+| 159. | Live out of suitcase                          | Жити на чемоданах                                   |
 | 160. | The happy middle                              | Золотая середина                                    |
-| 161. | Day in, day out                               | Изо дня в день                                      |
-| 162. | It doesn't matter to me, I couldn't care less | Мне все равно                                       |
-| 163. | When it comes to me                           | Когда дело касается меня                            |
-| 164. | From way back                                 | С самого начала                                     |
-| 165. | Force of habit                                | По привычке                                         |
-| 166. | To be out of sorts                            | Быть не вдухе                                       |
-| 167. | Keep up with somebody                         | Успевать за кем-то                                  |
-| 168. | Put a sock in it                              | Помолчи, Заткнись                                   |
-| 169. | The night is young                            | Ещё не вечер                                        |
-| 170. | Fall about                                    | Ржать                                               |
-| 171. | Mind if I take a look?                        | Можно глянуть?                                      |
-| 172. | What do you want me to do?                    | Что ты хочешь чтобы я сделал?                       |
-| 173. | It's for the best                             | Это к лучшему                                       |
-| 174. | That's a pity                                 | Как жаль                                            |
-| 175. | If I'm not mistaken                           | Если я не ошибаюсь                                  |
-| 176. | I suppose so                                  | Наверно, да                                         |
-| 177. | I far as I can tell                           | На сколько я могу судить                            |
-| 178. | I would say                                   | По-моему                                            |
-| 179. | If you ask me                                 | Как по мне                                          |
-| 180. | Leaves mush to be desired                     | Оставляет желать лучшего                            |
-| 181. | Beyond compare                                | Ни с чем не сравнить                                |
-| 182. | Nothing like this                             | Ничего подобного                                    |
-| 183. | I rest my case                                | Вопросов больше нет                                 |
-| 184. | You better take it from me                    | Тебе лучше узнать это от меня                       |
-| 185. | Dare I say it                                 | Не побоюсь этого слова                              |
-| 186. | Despite this                                  | Не смотря на это                                    |
-| 187. | I never would have thought                    | Никогда бы не подумал                               |
-| 188. | I would venture                               | Рискну предположить                                 |
-| 189. | I have to give it a shot                      | Я попробую                                          |
-| 190. | I will take my chances                        | Я все же рискну                                     |
-| 191. | Keep your eyes open                           | Буть готов                                          |
-| 191. | No doubt                                      | Несомненно                                          |
-| 192. | Stick around                                  | Ошиваться                                           |
-| 193. | At one's bidding                              | По чьей-то указке                                   |
+| 161. | Day in, day out                               | День у день                                         |
+| 162. | It doesn't matter to me, I couldn't care less | Мені все одно                                       |
+| 163. | When it comes to me                           | Коли справа стосується мене                         |
+| 164. | From way back                                 | С самого початку                                    |
+| 165. | Force of habit                                | За звичкою                                          |
+| 166. | To be out of sorts                            | Бути не в дусі                                      |
+| 167. | Keep up with somebody                         | Встигати за кимось                                  |
+| 168. | Put a sock in it                              | Замовкни, Заткнись                                  |
+| 169. | The night is young                            | Ще не вечір                                         |
+| 170. | Fall about                                    | Ржати                                               |
+| 171. | Mind if I take a look?                        | Можно глянути?                                      |
+| 172. | What do you want me to do?                    | Що ти хочеш, щоб я зробив?                          |
+| 173. | It's for the best                             | Це на краще                                         |
+| 174. | That's a pity                                 | Яка шкода                                           |
+| 175. | If I'm not mistaken                           | Якщо я не помиляюсь                                 |
+| 176. | I suppose so                                  | Мабуть, так                                         |
+| 177. | I far as I can tell                           | Наскільки я можу судити                             |
+| 178. | I would say                                   | По-моєму                                            |
+| 179. | If you ask me                                 | Як на мене                                          |
+| 180. | Leaves mush to be desired                     | Залишає бажати кращого                              |
+| 181. | Beyond compare                                | Ні з чим не порівняти                               |
+| 182. | Nothing like this                             | Нічого подібного                                    |
+| 183. | I rest my case                                | Запитань більше немає                               |
+| 184. | You better take it from me                    | Тобі краще дізнатися про це від мене                |
+| 185. | Dare I say it                                 | Не побоюсь цього слова                              |
+| 186. | Despite this                                  | Не зважаючи на це                                   |
+| 187. | I never would have thought                    | Ніколи б не подумав                                 |
+| 188. | I would venture                               | Ризикну припустити                                  |
+| 189. | I have to give it a shot                      | Я спробую                                           |
+| 190. | I will take my chances                        | Я все ж таки ризикну                                |
+| 191. | Keep your eyes open                           | Будь готовий                                        |
+| 191. | No doubt                                      | Безперечно                                          |
+| 192. | Stick around                                  | Ошиватися                                           |
+| 193. | At one's bidding                              | За чиєюсь указкою                                   |
 | 194. | Birds of a feather                            | Одного поля ягода                                   |
-| 195. | No one, but you                               | Никто кроме тебя                                    |
-| 196. | Don't border                                  | Не миешай                                           |
-| 197. | Out of curiosity                              | Из любопытства                                      |
-| 198. | A needle in a haystack                        | Это как искать иголку в стоге сена                  |
-| 199. | Grab a bite                                   | Перекусить                                          |
-| 200. | Can't or won't?                               | Не можешь или не хочешь?                            |
-| 203. | A shot in the dark                            | Палцем в небо                                       |
-| 204. | Budge up                                      | Подвинся                                            |
-| 205. | Keep your chin up                             | Не вешай нос                                        |
-| 206. | Let bygones be bygones                        | Что было то было                                    |
-| 207. | Let it go                                     | Забей                                               |
-| 208. | Rock the boat                                 | Создавать проблемы                                  |
-| 209. | Hang it there!                                | Держись!                                            |
-| 210. | Don't be tardy                                | Не опаздывай                                        |
+| 195. | No one, but you                               | Ніхто крім тебе                                     |
+| 196. | Don't border                                  | Не заважай                                          |
+| 197. | Out of curiosity                              | З цікавості                                         |
+| 198. | A needle in a haystack                        | Це як шукати голку в копиці сіна                    |
+| 199. | Grab a bite                                   | Перекусити                                          |
+| 200. | Can't or won't?                               | Не можеш чи не хочеш?                               |
+| 203. | A shot in the dark                            | Пальцем у небо                                      |
+| 204. | Budge up                                      | Посунься                                            |
+| 205. | Keep your chin up                             | Не вішай носа                                       |
+| 206. | Let bygones be bygones                        | Що було те було                                     |
+| 207. | Let it go                                     | Забий                                               |
+| 208. | Rock the boat                                 | Створювати проблеми                                 |
+| 209. | Hang it there!                                | Тримайся!                                           |
+| 210. | Don't be tardy                                | Не запізнюйся                                       |
 | 211. | Pull through                                  | Выкрутиться                                         |
 | 212. | Pull smb to bed                               | Покончить с чем-то                                  |
 | 213. | Don't mention it                              | Не бери в голову                                    |
